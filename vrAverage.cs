@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace CustomDB_ValidationRule
+namespace WPF_Dialog_Custom_ValidationRule
 {
 	class vrAverage : ValidationRule
 	{

@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace CustomDB_ValidationRule
+namespace WPF_Dialog_Custom_ValidationRule
 {
 	public partial class wndNewData : Window
 	{

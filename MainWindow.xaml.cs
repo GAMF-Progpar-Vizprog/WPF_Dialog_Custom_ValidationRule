@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace CustomDB_ValidationRule
+namespace WPF_Dialog_Custom_ValidationRule
 {
 	public partial class MainWindow : Window
 	{

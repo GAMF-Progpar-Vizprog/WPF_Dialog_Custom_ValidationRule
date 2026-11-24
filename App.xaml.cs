@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace CustomDB_ValidationRule
+namespace WPF_Dialog_Custom_ValidationRule
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

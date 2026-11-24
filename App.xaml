@@ -1,7 +1,7 @@
-﻿<Application x:Class="CustomDB_ValidationRule.App"
+﻿<Application x:Class="WPF_Dialog_Custom_ValidationRule.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:CustomDB_ValidationRule"
+             xmlns:local="clr-namespace:WPF_Dialog_Custom_ValidationRule"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

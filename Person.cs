@@ -1,4 +1,4 @@
-﻿namespace CustomDB_ValidationRule
+﻿namespace WPF_Dialog_Custom_ValidationRule
 {
 	public class Person
 	{
